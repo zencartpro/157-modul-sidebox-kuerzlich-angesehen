@@ -6,4 +6,5 @@ Freigegebene getestete Versionen für den Einsatz in Livesystemen ausschließlic
 * https://github.com/zencartpro/157-modul-sidebox-kuerzlich-angesehen/releases
 
 Dem Besucher werden in dieser Sidebox seine zuletzt angesehenen Artikel angezeigt.
+
 Wieviele Artikel angezeigt werden sollen, kann unter Konfiguration > Maximale Werte eingestellt werden

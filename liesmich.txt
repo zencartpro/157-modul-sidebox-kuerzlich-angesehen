@@ -1,8 +1,14 @@
 Sidebox: Kürzlich angesehene Artikel für Zen-Cart 1.5.7 deutsch
 
-
 Dem Besucher werden in dieser Sidebox seine zuletzt angesehenen Artikel angezeigt.
 Wieviele Artikel angezeigt werden sollen, kann unter Konfiguration > Maximale Werte eingestellt werden
+
+getestet mit Zen Cart Version:
+Zen Cart 1.5.7 deutsch
+
+getestet mit PHP Version:
+8.0.x
+7.4.x
 
 
 INSTALLATION
@@ -22,11 +28,6 @@ Hier einstellen, wieviele Artikel in der Sidebox maximal angezeigt werden sollen
 
 4)
 Box unter Tools > Boxlayout aktivieren
-
-
-Hinweis für User des Templates responsive_classic:
-Um die Sidebox auf mobilen Geräten zu deaktivieren, so vorgehen wie hier beschrieben:
-https://www.zen-cart-pro.at/forum/threads/12026-Neu-hinzugef%C3%BCgte-Sideboxen-in-mobiler-Ansicht-ausblenden
 
 
 
