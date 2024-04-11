@@ -4,11 +4,11 @@ Dem Besucher werden in dieser Sidebox seine zuletzt angesehenen Artikel angezeig
 Wieviele Artikel angezeigt werden sollen, kann unter Konfiguration > Maximale Werte eingestellt werden
 
 getestet mit Zen Cart Version:
-Zen Cart 1.5.7 deutsch
+Zen Cart 1.5.7h deutsch
 
 getestet mit PHP Version:
-8.0.x
-7.4.x
+8.1.x
+8.2.x
 
 
 INSTALLATION
@@ -23,6 +23,7 @@ Dabei werden keinerlei bestehende Dateien überschrieben
 3) 
 Im Ordner SQL die install.sql mit einem Texteditor öffnen und den Inhalt kopieren. 
 Einfügen unter Tools > SQL Patches installieren und absenden. 
+Unter PHP 8.2 kann dabei ein völlig harmloses Debug Log erzeugt werden (undefined array key ...). Einfach löschen.
 Dadurch ist nun unter Konfiguration > Maximale Werte ein neuer Menüpunkt vorhanden.
 Hier einstellen, wieviele Artikel in der Sidebox maximal angezeigt werden sollen.
 
